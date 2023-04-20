@@ -21,7 +21,7 @@ Temas:
 |Matrícula | Aluno |
 | -- | -- |
 | 17/0107574  | Laís Ramos Barbosa |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  TAYNARA CRISTINA RIBEIRO MARCELLOS |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
