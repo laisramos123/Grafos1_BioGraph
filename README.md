@@ -20,8 +20,8 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 17/0107574  | Laís Ramos Barbosa |
-| xx/xxxxxx  |  TAYNARA CRISTINA RIBEIRO MARCELLOS |
+| 17/0107574 | Laís Ramos Barbosa |
+| /  |  TAYNARA CRISTINA RIBEIRO MARCELLOS |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
